@@ -3,7 +3,7 @@
 A lightweight, highly optimized 2.5D parallax background script for Unity. Perfect for VNs, 2D platformers, and UI menus. 
 It smoothly shifts a `RawImage` material based on mouse movement or gamepad input, adding instant depth to the scene.
 
-<video src="git_assets/res.mp4" width="100%" autoplay loop muted playsinline></video>
+[<video src="git_assets/res.mp4" width="100%" autoplay loop muted playsinline></video>](https://github.com/user-attachments/assets/4bb507f2-f197-4357-95d1-e6f6dcd17e69)
 
 ## Shader Graph
 <p><img alt="Shader Graph" src="git_assets/ShaderGraph.png"></p>
